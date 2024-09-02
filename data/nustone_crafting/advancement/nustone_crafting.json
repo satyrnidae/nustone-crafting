@@ -1,0 +1,17 @@
+{
+  "display": {
+    "title": "${displayName} ${version}",
+    "description": "",
+    "icon": {
+      "id": "minecraft:granite"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "foxcraft:root",
+  "criteria": {
+    "on_tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
