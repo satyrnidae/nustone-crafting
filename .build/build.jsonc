@@ -22,11 +22,11 @@
   "displayName": "NuStone Crafting",
   "version": "1.0.0",
   "license": {
-    "name": "Anti-Capitalist Software License (v 1.4)",
-    "id": "Anti-Capitalist Software License (v 1.4), https://anticapitalist.software",
-    "version": "1.4",
-    "url": "https://anticapitalist.software",
-    "description": "The Anti-Capitalist Software License (ACSL) is a software license towards a world beyond capitalism. This license exists to release software that empowers individuals, collectives, worker-owned cooperatives, and nonprofits, while denying usage to those that exploit labor for profit."
+    "name": "MIT License",
+    "id": "MIT",
+    "version": "N/A",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "description": "The MIT License is a permissive open-source software license."
   },
   "description": "Allows for the various stone variants to be used in cobblestone crafting recipes.\\nThis is part of the Foxcraft Customizations collection.",
   "sites": {

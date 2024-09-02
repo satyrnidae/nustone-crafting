@@ -19,7 +19,7 @@
       },
       "license": {
         "name": "${license.name}",
-        "id": "${license.id}-${license.version}",
+        "id": "${license.id}",
         "url": "${license.url}",
         "description": "${license.description}"
       },
